@@ -1,2 +1,2 @@
-# bootstarp-ilk-odev
+# bootstrap-ilk-odev
 www.patika.dev
